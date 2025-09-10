@@ -20,8 +20,8 @@
 
 # Day 7: Revision + 5 HackerRank Python problems.✅
 
-# Day 8: Dictionaries & Sets.
-🔹 Practice: word frequency counter, set operations.
+# Day 8: Dictionaries & Sets.✅
+🔹 Practice: word frequency counter, set operations.✅
 
 # Day 9: List comprehensions & lambda functions.
 🔹 Practice: squares of numbers, filter even numbers.
