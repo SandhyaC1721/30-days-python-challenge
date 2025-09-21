@@ -39,8 +39,8 @@
 
 # Day 14: Solve 10 HackerRank Python problems.✅
 
-# Day 15: Classes & Objects.
-🔹 Practice: Student class with name, marks, average.
+# Day 15: Classes & Objects.✅
+🔹 Practice: Student class with name, marks, average.✅
 
 # Day 16: Inheritance & Polymorphism.
 🔹 Practice: Shape → Circle, Rectangle.
