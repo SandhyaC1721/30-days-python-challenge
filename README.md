@@ -48,7 +48,7 @@
 # Day 17: Recursion.✅
 🔹 Practice: factorial, Fibonacci, sum of n numbers (recursive).
 
-# Day 18: Searching Algorithms.
+# Day 18: Searching Algorithms.✅
 🔹 Practice: linear search, binary search.
 
 # Day 19: Sorting Algorithms.
