@@ -51,7 +51,7 @@
 # Day 18: Searching Algorithms.✅
 🔹 Practice: linear search, binary search.
 
-# Day 19: Sorting Algorithms.
+# Day 19: Sorting Algorithms.✅
 🔹 Practice: bubble, selection, insertion sort.
 
 # Day 20: Implement Stack & Queue using list.
