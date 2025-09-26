@@ -54,7 +54,7 @@
 # Day 19: Sorting Algorithms.✅
 🔹 Practice: bubble, selection, insertion sort.
 
-# Day 20: Implement Stack & Queue using list.
+# Day 20: Implement Stack & Queue using list.✅
 
 # Day 21: Solve 5 LeetCode Easy problems (Arrays/Strings).
 
