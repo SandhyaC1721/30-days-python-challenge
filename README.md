@@ -56,7 +56,7 @@
 
 # Day 20: Implement Stack & Queue using list.✅
 
-# Day 21: Solve 5 LeetCode Easy problems (Arrays/Strings).
+# Day 21: Solve 5 LeetCode Easy problems (Arrays/Strings).✅
 
 # Day 22: Hashmaps with dictionary.
 🔹 Practice: 2-sum problem, anagram check.
